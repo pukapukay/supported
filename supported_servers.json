@@ -12,4 +12,11 @@
         "name": "IrisClassic",
         "nameAddress": "0x010DF5D8"
     }
+       {
+        "description": "Majesty RO",
+        "hpAddress": "0x010DCE10",
+        "mouseFixAddress": "0x00E2EC84",
+        "name": "MajesticRO",
+        "nameAddress": "0x010DF5D8"
+    }
 ]
