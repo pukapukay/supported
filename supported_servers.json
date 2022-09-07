@@ -6,17 +6,17 @@
         "nameAddress": "0x00E90C00"
     },
     {
-        "description": "Iris Classic 2002",
+        "name": "MajesticRO",
+        "description": "Majestic RO",
         "hpAddress": "0x010DCE10",
-        "mouseFixAddress": "0x00E2EC84",
-        "name": "IrisClassic",
-        "nameAddress": "0x010DF5D8"
+        "nameAddress": "0x010DF5D8",
+        "mouseFixAddress": "0x00E2EC84"
     },
     {
-        "description": "MajesticRO",
+        "name": "IrisClassic",
+        "description": "Iris Classic 2002",
         "hpAddress": "0x010DCE10",
-        "mouseFixAddress": "0x00E2EC84",
-        "name": "MajesticRO",
-        "nameAddress": "0x010DF5D8"
+        "nameAddress": "0x010DF5D8",
+        "mouseFixAddress": "0x00E2EC84"
     }
 ]
