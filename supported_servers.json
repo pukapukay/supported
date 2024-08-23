@@ -22,7 +22,6 @@
 
   {
     "name": "Valhalla",
-    "description": "iRO Valhalla",
     "hpAddress": "0x011D1A04",
     "nameAddress": "0x11D43E8",
     "mouseFixAddress": "0x00E2EC84"
