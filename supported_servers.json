@@ -19,8 +19,8 @@
         "nameAddress": "0x011D43E8",
     },
     {
-        "name": "GrimhildRO",
-        "hpAddress": "0x01131204",
+        "name": "Valhalla-x",
+        "hpAddress": "0x01131ACC",
         "nameAddress": "0x1133BD8",
     },
     {
@@ -31,12 +31,5 @@
     "nameAddress": "011CA674",
     "hpAddressPointer": 18684420,
     "nameAddressPointer": 18654836
-  },
-    {
-        "nameAddres": "0x01131ACC",
-        "hpAddress": "0x01138DDC",
-        "name": "Valhalla-x",
-        "description": "Modified4rtools"
-    }
-    
+  },   
 ]
