@@ -19,9 +19,10 @@
         "nameAddress": "0x011D43E8",
     },
     {
-        "name": "Valhalla-x",
+        "nameAddres": "0x01131ACC",
         "hpAddress": "0x01138DDC",
-        "nameAddress": "0x0113B7B0",
+        "name": "Valhalla-x",
+        "description": "Modified4rtools"
     },
     {
     "index": 0,
