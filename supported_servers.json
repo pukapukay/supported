@@ -31,5 +31,12 @@
     "nameAddress": "011CA674",
     "hpAddressPointer": 18684420,
     "nameAddressPointer": 18654836
-  }
+  },
+    {
+        "nameAddres": "0x01131ACC",
+        "hpAddress": "0x01138DDC",
+        "name": "Valhalla-x",
+        "description": "Modified4rtools"
+    }
+    
 ]
