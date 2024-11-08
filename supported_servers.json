@@ -1,9 +1,9 @@
 [
     {
-        "name": "rtales.bin",
-        "description": "Ragna Tales",
-        "hpAddress": "0x00E8E434",
-        "nameAddress": "0x00E90C00",
+        "index": 0,
+        "name": "client",
+        "description": null,
+        "hpAddress": "011D1A04",
     },
     {
         "description": "Iris Classic 2002",
