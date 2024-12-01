@@ -24,13 +24,13 @@
         "name": "Valhalla-x",
         "description": "Modified4rtools"
     },
-    {
+  {
     "index": 0,
-    "name": "Ragnarok Online Valyria",
-    "description": "Ragnarok Online Valyria",
-    "hpAddress": "011D1A04",
-    "nameAddress": "011CA674",
-    "hpAddressPointer": 18684420,
-    "nameAddressPointer": 18654836
-  },   
+    "name": "New Sarah",
+    "description": null,
+    "hpAddress": "00E8F434",
+    "nameAddress": "00E91C00",
+    "hpAddressPointer": 15266868,
+    "nameAddressPointer": 15277056
+  }
 ]
