@@ -1,36 +1,20 @@
 [
-    {
-        "index": 0,
-        "name": "client",
-        "description": null,
-        "hpAddress": "011D1A04",
-    },
-    {
-        "description": "Iris Classic 2002",
-        "hpAddress": "0x010DCE10",
-        "mouseFixAddress": "0x00E2EC84",
-        "name": "IrisClassic",
-        "nameAddress": "0x010DF5D8",
-    },
-    {
-        "name": "PlayLoki",
-        "description": "PlayLoki",
-        "hpAddress": "0x011D1A04",
-        "nameAddress": "0x011D43E8",
-    },
-    {
-        "nameAddres": "0x01131ACC",
-        "hpAddress": "0x01138DDC",
-        "name": "Valhalla-x",
-        "description": "Modified4rtools"
-    },
   {
     "index": 0,
-    "name": "New Sarah",
+    "name": "RagnaTales",
     "description": null,
-    "hpAddress": "00E8F434",
-    "nameAddress": "00E91C00",
-    "hpAddressPointer": 15266868,
-    "nameAddressPointer": 15277056
+    "hpAddress": "0155814C",
+    "nameAddress": "011AB866",
+    "hpAddressPointer": 22380876,
+    "nameAddressPointer": 18528358
+  },
+  {
+    "index": 0,
+    "name": "ROWorld",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
   }
 ]
