@@ -25,5 +25,14 @@
     "nameAddress": "00F5D608",
     "hpAddressPointer": 16100548,
     "nameAddressPointer": 16111112
+  },
+    {
+    "index": 0,
+    "name": "New Sarah",
+    "description": null,
+    "hpAddress": "00E8F434",
+    "nameAddress": "00E91C00",
+    "hpAddressPointer": 15266868,
+    "nameAddressPointer": 15277056
   }
 ]
