@@ -34,5 +34,14 @@
     "nameAddress": "00F5D608",
     "hpAddressPointer": 16100548,
     "nameAddressPointer": 16111112
+  },
+    {
+    "index": 0,
+    "name": "ROWorld",
+    "description": null,
+    "hpAddress": "010DCE10",
+    "nameAddress": "010DF5D8",
+    "hpAddressPointer": 17681936,
+    "nameAddressPointer": 17692120
   }
 ]
