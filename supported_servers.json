@@ -1,29 +1,29 @@
 [
   {
     "index": 0,
-    "name": "Project Brunhilde",
+    "name": "PlayLoki",
     "description": null,
-    "hpAddress": "01138DDC",
-    "nameAddress": "01131ACC",
-    "hpAddressPointer": 18058716,
-    "nameAddressPointer": 18029260
+    "hpAddress": "011D1A04",
+    "nameAddress": "011D43E8",
+    "hpAddressPointer": 18684420,
+    "nameAddressPointer": 18695144
   },
   {
     "index": 0,
-    "name": "RAGNASTAR",
+    "name": "ROCW",
     "description": null,
-    "hpAddress": "01138DDC",
-    "nameAddress": "0113B7B0",
-    "hpAddressPointer": 18058716,
-    "nameAddressPointer": 18069424
+    "hpAddress": "015FF908",
+    "nameAddress": "015F8244",
+    "hpAddressPointer": 23066888,
+    "nameAddressPointer": 23036484
   },
   {
     "index": 0,
-    "name": "PerdsRO",
+    "name": "ZoeRO",
     "description": null,
-    "hpAddress": "01138DDC",
-    "nameAddress": "0113B7B0",
-    "hpAddressPointer": 18058716,
-    "nameAddressPointer": 18069424
+    "hpAddress": "0157EFE4",
+    "nameAddress": "015F8244",
+    "hpAddressPointer": 22540260,
+    "nameAddressPointer": 23036484
   }
 ]
